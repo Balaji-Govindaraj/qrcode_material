@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\qrcode-master\ZXingLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6e8768648fc0083a897a6f3f0464bb08e5ffaa2">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\qrcode-master-ZXingLib-unspecified_ebe5db63017175bf6f48f86b24b05d5762374ff5.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_a18cdb31dd528f11a6d29bece5d45cb794d78113.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b65c2fede61220ed2b6a063f11ca13160910089e">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-21.0.0_58897f50df14a6466d2c2048e471c1ec5020476a.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_a7484618f3ff5383a6c6f16aaefe655efb2a3593.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.0_cfd4051e1520baf0813d31d0168b38a911c9e6be.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_dd3f87dee9011eb74dab252c90468abfe60da55b.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\qrcode-master\ZXingLib\unspecified\jars\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6a5dc7dc2958f4c35db0f7ec14877587ec4391dc">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\core_5afd2d64569478f13f4bd5f6e32a6ae763c5a8ea.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_daa2103ab232e275368a16aeb7558404d81ebb8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_099b64f834bd08db4c16bfdf12abe9d4ab426a69.jar" />
+    </item>
+    <item
+        jar="D:\qrcode-master\ZXingLibDemo\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\qrcode-master\ZXingLibDemo\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_4788d23e1d09b67922aa4eeb073621f001830e83.jar" />
+    </item>
+
+</items>

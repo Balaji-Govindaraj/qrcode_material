@@ -1,0 +1,526 @@
+[
+    {
+        "outputFile": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 61,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 61,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 63,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 67,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 390,
+                        "endColumn": 64,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 64,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 58,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 517,
+                        "endColumn": 55,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 56,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 336,
+                        "endColumn": 53,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 56,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 56,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 106,
+                        "endColumn": 53,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 61,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 160,
+                        "endColumn": 58,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 61,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 219,
+                        "endColumn": 58,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 60,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 278,
+                        "endColumn": 57,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1474,
+                    "endColumn": 58,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 58,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 56,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 56,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 53,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 53,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 48,
+                    "endOffset": 1688
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 46,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1693,
+                    "endColumn": 44,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 703,
+                        "endColumn": 42,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 51,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 746,
+                        "endColumn": 49,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endColumn": 54,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 796,
+                        "endColumn": 52,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 42,
+                    "endOffset": 1883
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 849,
+                        "endColumn": 40,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1888,
+                    "endColumn": 56,
+                    "endOffset": 1940
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 890,
+                        "endColumn": 54,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1945,
+                    "endColumn": 54,
+                    "endOffset": 1995
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2000,
+                    "endColumn": 116,
+                    "endOffset": 2112
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 104,
+                        "endColumn": 113,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2117,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2578
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2583,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2832
+                },
+                "from": {
+                    "file": "D:\\qrcode-master\\ZXingLib\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\21.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2699,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2822
+                    }
+                }
+            }
+        ]
+    }
+]
